@@ -1,0 +1,27 @@
+# ninja log v6
+53	210	7553885907688389	Dijkstra_autogen/timestamp	699d7956d45259a0
+496	2524	7553874415832625	CMakeFiles/Dijkstra.dir/main.cpp.obj	f0c341683145ec5d
+53	210	7553885907688389	Dijkstra_autogen/mocs_compilation.cpp	699d7956d45259a0
+53	210	7553885907688389	C:/Users/elena/OneDrive/Documente/Facultate-INFORMATICA/An_2/sem1/GA/tema5/Dijkstra/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Dijkstra_autogen/timestamp	699d7956d45259a0
+53	210	7553885907688389	C:/Users/elena/OneDrive/Documente/Facultate-INFORMATICA/An_2/sem1/GA/tema5/Dijkstra/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Dijkstra_autogen/mocs_compilation.cpp	699d7956d45259a0
+489	2455	7553874415770370	CMakeFiles/Dijkstra.dir/Dijkstra_autogen/mocs_compilation.cpp.obj	5caedd9ff4a7c16d
+210	2584	7553885909281955	CMakeFiles/Dijkstra.dir/mainwindow.cpp.obj	565735789028d443
+2584	2843	7553885933020787	Dijkstra.exe	7f27ad27d1495605
+18	255	7554519503323787	Dijkstra_autogen/timestamp	699d7956d45259a0
+18	255	7554519503323787	Dijkstra_autogen/mocs_compilation.cpp	699d7956d45259a0
+18	255	7554519503323787	C:/Users/elena/OneDrive/Documente/Facultate-INFORMATICA/An_2/sem1/GA/tema5/Dijkstra/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Dijkstra_autogen/timestamp	699d7956d45259a0
+18	255	7554519503323787	C:/Users/elena/OneDrive/Documente/Facultate-INFORMATICA/An_2/sem1/GA/tema5/Dijkstra/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Dijkstra_autogen/mocs_compilation.cpp	699d7956d45259a0
+257	3881	7554519505716251	CMakeFiles/Dijkstra.dir/mainwindow.cpp.obj	565735789028d443
+3881	4231	7554519541953778	Dijkstra.exe	7f27ad27d1495605
+51	251	7554520380817966	Dijkstra_autogen/timestamp	699d7956d45259a0
+51	251	7554520380817966	Dijkstra_autogen/mocs_compilation.cpp	699d7956d45259a0
+51	251	7554520380817966	C:/Users/elena/OneDrive/Documente/Facultate-INFORMATICA/An_2/sem1/GA/tema5/Dijkstra/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Dijkstra_autogen/timestamp	699d7956d45259a0
+51	251	7554520380817966	C:/Users/elena/OneDrive/Documente/Facultate-INFORMATICA/An_2/sem1/GA/tema5/Dijkstra/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Dijkstra_autogen/mocs_compilation.cpp	699d7956d45259a0
+253	3720	7554520382841217	CMakeFiles/Dijkstra.dir/mainwindow.cpp.obj	565735789028d443
+3721	4044	7554520417516273	Dijkstra.exe	7f27ad27d1495605
+48	239	7554527115439511	Dijkstra_autogen/timestamp	699d7956d45259a0
+48	239	7554527115439511	Dijkstra_autogen/mocs_compilation.cpp	699d7956d45259a0
+48	239	7554527115439511	C:/Users/elena/OneDrive/Documente/Facultate-INFORMATICA/An_2/sem1/GA/tema5/Dijkstra/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Dijkstra_autogen/timestamp	699d7956d45259a0
+48	239	7554527115439511	C:/Users/elena/OneDrive/Documente/Facultate-INFORMATICA/An_2/sem1/GA/tema5/Dijkstra/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Dijkstra_autogen/mocs_compilation.cpp	699d7956d45259a0
+240	3692	7554527117367504	CMakeFiles/Dijkstra.dir/mainwindow.cpp.obj	565735789028d443
+3693	4066	7554527151890812	Dijkstra.exe	7f27ad27d1495605

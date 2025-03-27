@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6997693558ba196b79bb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Dijkstra",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Dijkstra::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dijkstra-Debug-fef06b855de91872d4c8.json",
+					"name" : "Dijkstra",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dijkstra_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dijkstra_autogen-Debug-6af9bc8edcbaa169bd63.json",
+					"name" : "Dijkstra_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dijkstra_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dijkstra_autogen_timestamp_deps-Debug-7147850f585f419923e0.json",
+					"name" : "Dijkstra_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/elena/OneDrive/Documente/Facultate-INFORMATICA/An_2/sem1/GA/tema5/Dijkstra/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/elena/OneDrive/Documente/Facultate-INFORMATICA/An_2/sem1/GA/tema5/Dijkstra"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
